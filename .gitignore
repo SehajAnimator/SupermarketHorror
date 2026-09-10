@@ -77,6 +77,3 @@ DerivedDataCache/*
 .idea
 __ExternalActors__
 __ExternalObjects__
-Content/FirstPerson/Lvl_FirstPerson.ini
-Content/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset
-Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset
